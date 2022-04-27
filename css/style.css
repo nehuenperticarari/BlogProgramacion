@@ -1,0 +1,10 @@
+/* Globales */
+html{
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
